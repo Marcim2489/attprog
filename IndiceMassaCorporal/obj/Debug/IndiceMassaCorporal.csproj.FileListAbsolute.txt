@@ -6,3 +6,11 @@ C:\Users\Marcim\Desktop\imc\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.cs
 C:\Users\Marcim\Desktop\imc\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.exe
 C:\Users\Marcim\Desktop\imc\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.pdb
 C:\Users\Marcim\Desktop\imc\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.exe.config
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\bin\Debug\IndiceMassaCorporal.exe.config
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\bin\Debug\IndiceMassaCorporal.exe
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\bin\Debug\IndiceMassaCorporal.pdb
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.csproj.AssemblyReference.cache
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.exe.config
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.exe
+C:\Users\Marcim\Desktop\attprog\IndiceMassaCorporal\obj\Debug\IndiceMassaCorporal.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\bin\Debug\BattleQuestRPG.exe.config
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\bin\Debug\BattleQuestRPG.exe
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\bin\Debug\BattleQuestRPG.pdb
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\obj\Debug\BattleQuestRPG.csproj.AssemblyReference.cache
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\obj\Debug\BattleQuestRPG.csproj.CoreCompileInputs.cache
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\obj\Debug\BattleQuestRPG.exe
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\obj\Debug\BattleQuestRPG.pdb
+C:\Users\Marcim\Desktop\attprog\BattleQuestRPG\obj\Debug\BattleQuestRPG.exe.config
