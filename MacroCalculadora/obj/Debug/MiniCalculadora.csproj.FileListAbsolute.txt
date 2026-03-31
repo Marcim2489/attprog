@@ -1,0 +1,8 @@
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\bin\Debug\MiniCalculadora.exe.config
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\bin\Debug\MiniCalculadora.exe
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\bin\Debug\MiniCalculadora.pdb
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\obj\Debug\MiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\obj\Debug\MiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\obj\Debug\MiniCalculadora.exe
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\obj\Debug\MiniCalculadora.pdb
+C:\Users\Marcim\Desktop\imc\MiniCalculadora\obj\Debug\MiniCalculadora.exe.config

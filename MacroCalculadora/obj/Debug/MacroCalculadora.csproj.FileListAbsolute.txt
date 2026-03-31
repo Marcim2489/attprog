@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\bin\Debug\MiniCalculadora.exe.config
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\bin\Debug\MiniCalculadora.exe
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\bin\Debug\MiniCalculadora.pdb
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\obj\Debug\MacroCalculadora.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\obj\Debug\MiniCalculadora.exe.config
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\obj\Debug\MacroCalculadora.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\obj\Debug\MiniCalculadora.exe
+F:\trabalhos e coisas por ai\attprog\MiniCalculadora - Copia\obj\Debug\MiniCalculadora.pdb
