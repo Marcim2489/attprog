@@ -1,0 +1,7 @@
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\P21-ALUNO\Desktop\Breno Paquevitz\Calculadora2\obj\Debug\Calculadora2.pdb
