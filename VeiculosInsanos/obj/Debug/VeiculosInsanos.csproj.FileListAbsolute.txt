@@ -1,0 +1,16 @@
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\bin\Debug\VeiculosInsanos.exe.config
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\bin\Debug\VeiculosInsanos.exe
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\bin\Debug\VeiculosInsanos.pdb
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\obj\Debug\VeiculosInsanos.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\obj\Debug\VeiculosInsanos.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\obj\Debug\VeiculosInsanos.exe
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\obj\Debug\VeiculosInsanos.pdb
+F:\trabalhos e coisas por ai\attAlura\VeiculosInsanos\obj\Debug\VeiculosInsanos.exe.config
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\bin\Debug\VeiculosInsanos.exe.config
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\bin\Debug\VeiculosInsanos.exe
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\bin\Debug\VeiculosInsanos.pdb
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\obj\Debug\VeiculosInsanos.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\obj\Debug\VeiculosInsanos.exe.config
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\obj\Debug\VeiculosInsanos.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\obj\Debug\VeiculosInsanos.exe
+F:\trabalhos e coisas por ai\attprog\VeiculosInsanos\obj\Debug\VeiculosInsanos.pdb
