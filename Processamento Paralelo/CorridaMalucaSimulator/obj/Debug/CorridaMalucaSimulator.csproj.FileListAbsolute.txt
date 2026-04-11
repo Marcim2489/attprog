@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\bin\Debug\CorridaMalucaSimulator.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\bin\Debug\CorridaMalucaSimulator.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\bin\Debug\CorridaMalucaSimulator.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\obj\Debug\CorridaMalucaSimulator.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\obj\Debug\CorridaMalucaSimulator.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\obj\Debug\CorridaMalucaSimulator.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\obj\Debug\CorridaMalucaSimulator.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CorridaMalucaSimulator\obj\Debug\CorridaMalucaSimulator.exe.config

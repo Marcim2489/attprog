@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\bin\Debug\CozinhaMaldita.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\bin\Debug\CozinhaMaldita.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\bin\Debug\CozinhaMaldita.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\obj\Debug\CozinhaMaldita.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\obj\Debug\CozinhaMaldita.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\obj\Debug\CozinhaMaldita.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\obj\Debug\CozinhaMaldita.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\CozinhaMaldita\obj\Debug\CozinhaMaldita.exe.config
