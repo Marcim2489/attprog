@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\bin\Debug\Estacionamento.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\bin\Debug\Estacionamento.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\bin\Debug\Estacionamento.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\obj\Debug\Estacionamento.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\obj\Debug\Estacionamento.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\Estacionamento\obj\Debug\Estacionamento.exe.config
