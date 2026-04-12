@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\bin\Debug\RadioDaCidade.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\bin\Debug\RadioDaCidade.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\bin\Debug\RadioDaCidade.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\obj\Debug\RadioDaCidade.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\obj\Debug\RadioDaCidade.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\obj\Debug\RadioDaCidade.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\obj\Debug\RadioDaCidade.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\RadioDaCidade\obj\Debug\RadioDaCidade.exe.config

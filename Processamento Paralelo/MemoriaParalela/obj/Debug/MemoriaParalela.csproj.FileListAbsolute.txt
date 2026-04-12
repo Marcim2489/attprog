@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\bin\Debug\MemoriaParalela.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\bin\Debug\MemoriaParalela.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\bin\Debug\MemoriaParalela.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\obj\Debug\MemoriaParalela.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\obj\Debug\MemoriaParalela.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\obj\Debug\MemoriaParalela.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\obj\Debug\MemoriaParalela.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\MemoriaParalela\obj\Debug\MemoriaParalela.exe.config
