@@ -9,6 +9,7 @@ namespace VeiculosInsanos
 
         static void Main(string[] args)
         {
+            Console.Clear();
             while (true)
             {
                 Console.WriteLine("Selecione a opção desejada.");
@@ -46,22 +47,34 @@ namespace VeiculosInsanos
         {
             Console.WriteLine("Cadastrando veículo...\n");
             Console.WriteLine("Insira o modelo");
-            string modelo = Console.ReadLine();
+            string modelo = Console.ReadLine()!;
+            while(modelo==""){
+                InvalidarInput();
+                modelo = Console.ReadLine()!;
+            }
             Console.WriteLine("Insira o fabricante");
-            string fabricante = Console.ReadLine();
+            string fabricante = Console.ReadLine()!;
+            while(fabricante==""){
+                InvalidarInput();
+                fabricante = Console.ReadLine()!;
+            }
             Console.WriteLine("Insira a cor");
-            string cor = Console.ReadLine();
+            string cor = Console.ReadLine()!;
+            while(cor==""){
+                InvalidarInput();
+                cor = Console.ReadLine()!;
+            }
             Console.WriteLine("Insira o ano de fabricação");
             int anoFabricacao;
-            while(int.TryParse(Console.ReadLine(), out anoFabricacao)==false)
+            while(int.TryParse(Console.ReadLine()!, out anoFabricacao)==false)
             {
                 InvalidarInput();
             }
             Console.WriteLine("Insira o ano do modelo");
             int anoModelo;
-            while (int.TryParse(Console.ReadLine(), out anoModelo)==false)
+            while (int.TryParse(Console.ReadLine()!, out anoModelo)==false)
             {
-                Console.WriteLine("Input inválido!");
+                InvalidarInput();
             }
 
             veiculosCadastrados.Add(new Veiculo(modelo, fabricante, cor, anoFabricacao, anoModelo));
