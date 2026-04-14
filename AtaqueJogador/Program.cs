@@ -25,21 +25,17 @@ namespace AtaqueJogador
                     {
                         InvalidarInput();
                     }
+                    Console.Clear();
                     switch (opcao)
                     {
                         case 1:
-                            Console.WriteLine("\nA partida será reiniciada...");
+                            Console.WriteLine("A partida será reiniciada...");
                             EsperarComandoParaLimparConsole();
                             goto inicio;
-                        case 2:
-                            Console.Clear();
-                            break;
                         case 3:
                             receberAviso = false;
-                            Console.Clear();
                             break;
                         case 4:
-                            Console.Clear();
                             Console.WriteLine("Adeus!");
                             opcao = 5;
                             goto final;
@@ -56,7 +52,7 @@ namespace AtaqueJogador
                 {
                     InvalidarInput();
                 }
-                
+                Console.Clear();
                 switch (opcao)
                 {
                     case 1:
@@ -66,15 +62,14 @@ namespace AtaqueJogador
                         AtacarJogador(jogador2, jogador1);
                         break;
                     case 3:
-                        Console.WriteLine("\n" + jogador1.RetornarEstado());
+                        Console.WriteLine(jogador1.RetornarEstado());
                         Console.WriteLine(jogador2.RetornarEstado());
                         break;
                     case 4:
-                        Console.WriteLine("\nA partida será reiniciada...");
+                        Console.WriteLine("A partida será reiniciada...");
                         EsperarComandoParaLimparConsole();
                         goto inicio;
                     case 5:
-                        Console.Clear();
                         Console.WriteLine("Adeus!");
                         break;
                 }
@@ -98,7 +93,7 @@ namespace AtaqueJogador
                 return;
             }
             alvo.ReceberAtaque(agressor.PotenciaAtaque);
-            Console.WriteLine($"\n{alvo.Nome} recebeu {agressor.PotenciaAtaque} de dano!");
+            Console.WriteLine($"{alvo.Nome} recebeu {agressor.PotenciaAtaque} de dano!");
             Console.WriteLine(alvo.RetornarEstado());
         }
         static void EsperarComandoParaLimparConsole()
