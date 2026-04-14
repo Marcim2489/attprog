@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\bin\Debug\AtaqueJogador.exe.config
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\bin\Debug\AtaqueJogador.exe
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\bin\Debug\AtaqueJogador.pdb
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\obj\Debug\AtaqueJogador.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\obj\Debug\AtaqueJogador.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\obj\Debug\AtaqueJogador.exe
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\obj\Debug\AtaqueJogador.pdb
+F:\trabalhos e coisas por ai\attprog\AtaqueJogador\obj\Debug\AtaqueJogador.exe.config

@@ -19,7 +19,7 @@ namespace MemoriaParalela
 
         static List<Jogador> jogadores = new List<Jogador>()
         {
-            new Jogador("Cuidadoso", 3000, 90),
+            new Jogador("Cuidadoso", 3000, 85),
             new Jogador("Comum", 2000, 75),
             new Jogador("Afobado", 1000, 60),
             //new Jogador("Mestre", 1000, 95) //banido por ser muito apelão
@@ -65,7 +65,7 @@ namespace MemoriaParalela
                 }
                 else
                 {
-                    Console.WriteLine("Os vencedores empataram:");
+                    Console.WriteLine("\nOs vencedores empataram:");
                     foreach((Jogador, int) vencedor in vencedores)
                     {
                         Console.WriteLine(vencedor.Item1.Nome);

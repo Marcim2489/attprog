@@ -58,7 +58,8 @@ namespace CorridaMalucaSimulator
             {
                 if(carro.VoltasPercorridas >= 3 && random.Next(0, 101) < chanceDePitStop)
                 {
-                    tempoDaVoltaAntesDoPitStop = random.Next(1, carro.TempoDeCadaVolta);
+                    tempoDaVoltaAntesDoPitStop = carro.TempoDeCadaVolta/2;
+                    Thread.Sleep(tempoDaVoltaAntesDoPitStop);
                     Console.WriteLine($"{carro.Nome} parou no pit stop!");
                     chanceDePitStop *= 0.1f;
                     Thread.Sleep(carro.TempoDePitStop);

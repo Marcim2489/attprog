@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\MemoriaParalela\\",
+  "WorkspaceRootPath": "F:\\trabalhos e coisas por ai\\attprog\\AtaqueJogador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6649BE06-8CE0-48C3-B54A-CBB471CD98B8}|MemoriaParalela.csproj|f:\\trabalhos e coisas por ai\\attprog\\processamento paralelo\\memoriaparalela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6649BE06-8CE0-48C3-B54A-CBB471CD98B8}|MemoriaParalela.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDCB9F73-0C5E-4C1B-A6BA-599B02BFD25F}|AtaqueJogador.csproj|f:\\trabalhos e coisas por ai\\attprog\\ataquejogador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCB9F73-0C5E-4C1B-A6BA-599B02BFD25F}|AtaqueJogador.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\MemoriaParalela\\Program.cs",
+              "DocumentMoniker": "F:\\trabalhos e coisas por ai\\attprog\\AtaqueJogador\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\MemoriaParalela\\Program.cs",
+              "ToolTip": "F:\\trabalhos e coisas por ai\\attprog\\AtaqueJogador\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T15:27:31.348Z",
+              "WhenOpened": "2026-04-14T21:17:31.29Z",
               "EditorCaption": ""
             }
           ]
