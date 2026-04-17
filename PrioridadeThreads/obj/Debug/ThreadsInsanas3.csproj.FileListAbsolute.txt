@@ -1,0 +1,7 @@
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\bin\Debug\ThreadsInsanas3.exe.config
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\bin\Debug\ThreadsInsanas3.exe
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\bin\Debug\ThreadsInsanas3.pdb
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\obj\Debug\ThreadsInsanas3.csproj.AssemblyReference.cache
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\obj\Debug\ThreadsInsanas3.csproj.CoreCompileInputs.cache
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\obj\Debug\ThreadsInsanas3.exe
+C:\Users\P18-ALUNO\Desktop\ThreadsInsanas3\obj\Debug\ThreadsInsanas3.pdb
