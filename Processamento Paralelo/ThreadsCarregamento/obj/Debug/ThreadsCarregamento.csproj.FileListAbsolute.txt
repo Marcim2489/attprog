@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\bin\Debug\ThreadsInsanas.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\bin\Debug\ThreadsInsanas.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\bin\Debug\ThreadsInsanas.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\obj\Debug\ThreadsCarregamento.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\obj\Debug\ThreadsInsanas.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\obj\Debug\ThreadsCarregamento.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\obj\Debug\ThreadsInsanas.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadsCarregamento\obj\Debug\ThreadsInsanas.pdb

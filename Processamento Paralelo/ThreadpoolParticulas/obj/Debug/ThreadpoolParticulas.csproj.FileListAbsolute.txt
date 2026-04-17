@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\bin\Debug\ThreadsInsanas2.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\bin\Debug\ThreadsInsanas2.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\bin\Debug\ThreadsInsanas2.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\obj\Debug\ThreadpoolParticulas.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\obj\Debug\ThreadsInsanas2.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\obj\Debug\ThreadpoolParticulas.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\obj\Debug\ThreadsInsanas2.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\ThreadpoolParticulas\obj\Debug\ThreadsInsanas2.pdb

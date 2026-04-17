@@ -1,7 +1,0 @@
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\bin\Debug\ThreadsInsanas2.exe.config
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\bin\Debug\ThreadsInsanas2.exe
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\bin\Debug\ThreadsInsanas2.pdb
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\obj\Debug\ThreadsInsanas2.csproj.AssemblyReference.cache
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\obj\Debug\ThreadsInsanas2.csproj.CoreCompileInputs.cache
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\obj\Debug\ThreadsInsanas2.exe
-C:\Users\P18-ALUNO\Desktop\ThreadsInsanas2\obj\Debug\ThreadsInsanas2.pdb

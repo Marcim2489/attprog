@@ -24,9 +24,10 @@ namespace ThreadpoolParticulas
             }
             while (contadorDeParticulasProcessadas < numeroDeParticulas){ Thread.Sleep(100); }
             Console.WriteLine($"Tchauzinho! Partículas processadas: {contadorDeParticulasProcessadas}");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
+
     class Particula
     {
         public int Id { get; private set; }

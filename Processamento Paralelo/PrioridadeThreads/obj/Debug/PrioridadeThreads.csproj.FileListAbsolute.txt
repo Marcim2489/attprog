@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\bin\Debug\ThreadsInsanas3.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\bin\Debug\ThreadsInsanas3.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\bin\Debug\ThreadsInsanas3.pdb
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\obj\Debug\PrioridadeThreads.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\obj\Debug\ThreadsInsanas3.exe.config
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\obj\Debug\PrioridadeThreads.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\obj\Debug\ThreadsInsanas3.exe
+F:\trabalhos e coisas por ai\attprog\Processamento Paralelo\PrioridadeThreads\obj\Debug\ThreadsInsanas3.pdb
