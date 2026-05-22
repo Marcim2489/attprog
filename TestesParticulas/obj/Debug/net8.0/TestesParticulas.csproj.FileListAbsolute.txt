@@ -1,0 +1,15 @@
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\bin\Debug\net8.0\TestesParticulas.exe
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\bin\Debug\net8.0\TestesParticulas.deps.json
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\bin\Debug\net8.0\TestesParticulas.runtimeconfig.json
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\bin\Debug\net8.0\TestesParticulas.dll
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\bin\Debug\net8.0\TestesParticulas.pdb
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.AssemblyInfoInputs.cache
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.AssemblyInfo.cs
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.sourcelink.json
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.dll
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\refint\TestesParticulas.dll
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.pdb
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\TestesParticulas.genruntimeconfig.cache
+F:\trabalhos e coisas por ai\attprog\TestesParticulas\obj\Debug\net8.0\ref\TestesParticulas.dll
