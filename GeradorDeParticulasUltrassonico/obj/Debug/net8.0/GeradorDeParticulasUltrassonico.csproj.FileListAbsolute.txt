@@ -1,0 +1,15 @@
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\bin\Debug\net8.0\GeradorDeParticulasUltrassonico.exe
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\bin\Debug\net8.0\GeradorDeParticulasUltrassonico.deps.json
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\bin\Debug\net8.0\GeradorDeParticulasUltrassonico.runtimeconfig.json
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\bin\Debug\net8.0\GeradorDeParticulasUltrassonico.dll
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\bin\Debug\net8.0\GeradorDeParticulasUltrassonico.pdb
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.AssemblyInfoInputs.cache
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.AssemblyInfo.cs
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.sourcelink.json
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.dll
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\refint\GeradorDeParticulasUltrassonico.dll
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.pdb
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\GeradorDeParticulasUltrassonico.genruntimeconfig.cache
+F:\trabalhos e coisas por ai\attprog\GeradorDeParticulasUltrassonico\obj\Debug\net8.0\ref\GeradorDeParticulasUltrassonico.dll

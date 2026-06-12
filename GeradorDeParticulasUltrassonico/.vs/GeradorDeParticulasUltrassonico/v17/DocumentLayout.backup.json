@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\ThreadpoolParticulas\\",
+  "WorkspaceRootPath": "F:\\trabalhos e coisas por ai\\attprog\\GeradorDeParticulasUltrassonico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31C7BD8D-C236-478C-AB03-E3254FDC3D32}|ThreadpoolParticulas.csproj|f:\\trabalhos e coisas por ai\\attprog\\processamento paralelo\\threadpoolparticulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31C7BD8D-C236-478C-AB03-E3254FDC3D32}|ThreadpoolParticulas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5691378-AA6D-4ACA-9C66-D3ABFD23D086}|GeradorDeParticulasUltrassonico.csproj|f:\\trabalhos e coisas por ai\\attprog\\geradordeparticulasultrassonico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5691378-AA6D-4ACA-9C66-D3ABFD23D086}|GeradorDeParticulasUltrassonico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\ThreadpoolParticulas\\Program.cs",
+              "DocumentMoniker": "F:\\trabalhos e coisas por ai\\attprog\\GeradorDeParticulasUltrassonico\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\trabalhos e coisas por ai\\attprog\\Processamento Paralelo\\ThreadpoolParticulas\\Program.cs",
+              "ToolTip": "F:\\trabalhos e coisas por ai\\attprog\\GeradorDeParticulasUltrassonico\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T17:47:58.439Z",
+              "WhenOpened": "2026-06-12T00:48:14.267Z",
               "EditorCaption": ""
             }
           ]

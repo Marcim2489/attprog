@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\bin\Debug\DispatcherManual.exe.config
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\bin\Debug\DispatcherManual.exe
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\bin\Debug\DispatcherManual.pdb
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\obj\Debug\DispatcherManual.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\obj\Debug\DispatcherManual.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\obj\Debug\DispatcherManual.exe
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\obj\Debug\DispatcherManual.pdb
+F:\trabalhos e coisas por ai\attprog\DispatcherManual\obj\Debug\DispatcherManual.exe.config

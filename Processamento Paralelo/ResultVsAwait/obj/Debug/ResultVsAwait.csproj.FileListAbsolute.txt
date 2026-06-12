@@ -1,0 +1,8 @@
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\obj\Debug\ResultVsAwait.csproj.AssemblyReference.cache
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\obj\Debug\ResultVsAwait.csproj.CoreCompileInputs.cache
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\bin\Debug\ResultVsAwait.exe.config
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\bin\Debug\ResultVsAwait.exe
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\bin\Debug\ResultVsAwait.pdb
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\obj\Debug\ResultVsAwait.exe
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\obj\Debug\ResultVsAwait.pdb
+F:\trabalhos e coisas por ai\attprog\ResultVsAwait\obj\Debug\ResultVsAwait.exe.config

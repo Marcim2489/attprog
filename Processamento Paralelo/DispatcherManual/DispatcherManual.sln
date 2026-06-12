@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatcherManual", "DispatcherManual.csproj", "{607E77F0-62EE-4FF4-91B6-D116A7BED422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607E77F0-62EE-4FF4-91B6-D116A7BED422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607E77F0-62EE-4FF4-91B6-D116A7BED422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607E77F0-62EE-4FF4-91B6-D116A7BED422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607E77F0-62EE-4FF4-91B6-D116A7BED422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F54A9A1-AA0A-4204-AADA-6B467E52D290}
+	EndGlobalSection
+EndGlobal
